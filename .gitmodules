@@ -1,0 +1,9 @@
+[submodule "eyl-web"]
+	path = eyl-web
+	url = https://github.com/willRicard/eyl-web
+[submodule "eyl-android"]
+	path = eyl-android
+	url = https://github.com/willRicard/eyl-android
+[submodule "eyl-server"]
+	path = eyl-server
+	url = https://github.com/willRicard/eyl-server
