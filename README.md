@@ -2,8 +2,6 @@
 
 Everyday Young Life - Scan nutrition facts
 
-![web interface](eyl-web.png)
-
 ## Project Overview
 
 - `eyl-android` holds the Android app sources for ScanHealthy
